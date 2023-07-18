@@ -9,5 +9,5 @@ This is the project file for my Web Scraping Introduction YouTube video.
 
 [Introduction to Python Web Scraping with Requests and BeautifulSoup | Part 1](https://www.youtube.com/watch?v=u8XEkT1-XKQ)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u8XEkT1-XKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![thumbnail](https://i.ytimg.com/vi/u8XEkT1-XKQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX8ZB0OdKtMyCYeJuAK9aqYW0HLQ)](https://www.youtube.com/watch?v=u8XEkT1-XKQ)
 
